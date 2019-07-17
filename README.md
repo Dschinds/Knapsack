@@ -1,1 +1,1 @@
-#Knapsack Program
+#Knapsack Program that allows user to enter weights and value pairs and then compute a the maximum value a knapsack can carry #with both unlimited items and limited items. The algorithim changes a tiny bit but It Is still an interesting change. Both of #these run at O(nW) which is the Weight of the Knapsack * the amount of items. The problem with repeat items can be done in #O(W + 1) space since items do not need to be removed at each step. So you do not need weights per item.  
